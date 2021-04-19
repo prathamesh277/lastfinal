@@ -1,0 +1,121 @@
+html, body, ul, li, h1, h2, h3, h4 {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+h1 img {
+	display: block;
+}
+img {
+	border: 0;
+}
+a {
+	color: black;
+	font-weight: bold;
+}
+a:hover {
+	color: red;
+	text-decoration: underline;
+}
+.left {
+	float: left;
+	position: relative;
+}
+.right {
+	float: right;
+}
+.more {
+	text-align: right;
+}
+.clear {
+	clear: both;
+}
+body {
+	background: rgb(117, 194, 245);
+	text-align: center;
+	font: 12px arial, sans-serif;
+	color: #8A8A8A;
+	padding-bottom: 60px;
+}
+#wrapper {
+	text-align: left;
+	margin-top: 50px;
+	margin-left: 440px;
+	width: 707px;
+	position: relative;
+}
+
+#ee{
+	position: relative;
+	top: 0;
+	left: 378px;
+}
+#body-right {
+	width: 318px;
+	margin-right: 300px;
+	position: relative;
+	top: -500px;
+	left: 100px;
+}
+#eye {
+	width: 318px;
+	margin-right: 300px;
+	position: relative;
+	top: -1110px;
+	left: 725px;
+}
+#skin 
+	{
+		width: 318px;
+		margin-right: 300px;
+		position: relative;
+		top: -480px;
+		left: 100px;
+	}
+
+/******************** Navigation ****************/
+#menu {
+	background-image:url(images/menu.jpg);
+	width: 234px;
+	margin-top: 300px;
+	margin-left: 450px;
+	height:225px;
+	background-repeat: no-repeat;
+	padding: 22px 20px 0px 0px;
+	text-align:center;
+}
+
+#menu li{
+}
+#menu a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	color: #000000;
+	text-decoration: none;
+	line-height: 41px;
+}
+#menu a:hover{
+	color:#FF0000;
+}
+#h-color {
+	margin-top: 18px;
+}
+/******************** Projects - Welcome ****************/
+
+#ent {
+	width: 318px;
+	margin-right: 300px;
+	position: relative;
+	top: -1090px;
+	left: 725px;
+}
+#copyright {
+	text-align: center;
+	background: #E8E8E8;
+	font-size: 11px;
+	padding: 4px;
+	margin-top: -1000px;
+	margin-left: 0px;
+}
